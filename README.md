@@ -12,15 +12,73 @@ This project is a personal coding journey aimed at refreshing Python skills and 
 - **Project:**INTRODUCTION AND SETUP
   - **Description:** Introduction to python.
   - **Current Status:** Complete
-  - **How to Contribute:** Guidelines on how others can contribute to this project.
 
 ### Day 2
-- **Project:** Project Title
-  - **Description:** Brief description of the project.
-  - **Current Status:** In progress / Completed / Planned
-  - **How to Contribute:** Guidelines on how others can contribute to this project.
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
 
-...
+### Day 3
+- **Project:** CONTROL FLOW AND LOOP 
+  - **Description:** conditionals, loops.
+  - **Current Status:** Completed 
+
+### Day 4
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+### Day 5
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+### Day 6
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+### Day 7
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+### Day 8
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+
+### Day 9
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+
+### Day 10
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+### Day 11
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+### Day 12
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+### Day 13
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+### Day 14
+- **Project:** VARIABLE AND DATATYPE 
+  - **Description:** basic variable and datatype.
+  - **Current Status:** Completed 
+  
+
 
 ### Day 15
 - **Project:** Project Title
