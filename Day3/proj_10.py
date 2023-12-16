@@ -8,4 +8,4 @@ for num in new_list:
         digit_sum += num
     else:
         print("enter a valid number")
-print(f"Sum of the digits: {digit_sum}" )
+    print(f"Sum of the digits: {digit_sum}" )
