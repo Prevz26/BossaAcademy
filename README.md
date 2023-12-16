@@ -9,7 +9,7 @@ This project is a personal coding journey aimed at refreshing Python skills and 
 ## Daily Progress
 
 ### Day 1
-- **Project:**INTRODUCTION AND SETUP
+- **Project:** INTRODUCTION AND SETUP
   - **Description:** Introduction to python.
   - **Current Status:** Complete
 
@@ -24,9 +24,9 @@ This project is a personal coding journey aimed at refreshing Python skills and 
   - **Current Status:** Completed 
 
 ### Day 4
-- **Project:** VARIABLE AND DATATYPE 
+- **Project:** FUNCTION
   - **Description:** basic variable and datatype.
-  - **Current Status:** Completed 
+  - **Current Status:** uncompleted 
   
 ### Day 5
 - **Project:** VARIABLE AND DATATYPE 
