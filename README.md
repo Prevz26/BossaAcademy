@@ -25,12 +25,12 @@ This project is a personal coding journey aimed at refreshing Python skills and 
 
 ### Day 4
 - **Project:** FUNCTION
-  - **Description:** basic variable and datatype.
+  - **Description:** Basic functions
   - **Current Status:** uncompleted 
   
 ### Day 5
-- **Project:** VARIABLE AND DATATYPE 
-  - **Description:** basic variable and datatype.
+- **Project:** STRING MANIPULATION 
+  - **Description:** splitting & joining, string methods, slicing and striding.
   - **Current Status:** Completed 
   
 ### Day 6
